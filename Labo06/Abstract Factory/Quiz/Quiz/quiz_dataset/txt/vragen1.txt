@@ -1,0 +1,16 @@
+vraag1
+Wat hoort niet thuis in de rij?
+Zonnebril,Paraplu,Laarzen,Regenjas
+A
+vraag2
+Wat hoort niet thuis in de rij?
+Trein,Bus,Taxi,Boot
+D
+vraag3
+Wat hoort niet thuis in de rij?
+Muis,Hond,Spin,Kat
+C
+vraag4
+Wat hoort niet thuis in de rij?
+Bloemkool,Prei,Appel,Ajuin
+C

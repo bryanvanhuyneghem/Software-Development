@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A39AB1EB-E8A4-4C24-A83F-BD1BED010011}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Quiz</RootNamespace>
+    <AssemblyName>Quiz</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pattern\ACategory.cs" />
+    <Compile Include="Pattern\ALevel.cs" />
+    <Compile Include="Pattern\AQuizFactory.cs" />
+    <Compile Include="Pattern\AVraag.cs" />
+    <Compile Include="Pattern\CSVCategory.cs" />
+    <Compile Include="Pattern\CSVCategoryFactory.cs" />
+    <Compile Include="Pattern\CSVLevel.cs" />
+    <Compile Include="Pattern\CSVQuizFactory.cs" />
+    <Compile Include="Pattern\CSVVraag.cs" />
+    <Compile Include="Pattern\ICategory.cs" />
+    <Compile Include="Pattern\ILevel.cs" />
+    <Compile Include="Pattern\IQuiz.cs" />
+    <Compile Include="Pattern\IQuizFactory.cs" />
+    <Compile Include="Pattern\IVraag.cs" />
+    <Compile Include="Pattern\Quiz.cs" />
+    <Compile Include="Pattern\QuizFactoryProvider.cs" />
+    <Compile Include="Pattern\TXTCategory.cs" />
+    <Compile Include="Pattern\TXTCategoryFactory.cs" />
+    <Compile Include="Pattern\TXTLevel.cs" />
+    <Compile Include="Pattern\TXTQuizFactory.cs" />
+    <Compile Include="Pattern\TXTVraag.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="quiz_dataset\csv\categories.csv" />
+    <None Include="quiz_dataset\csv\levels0.csv" />
+    <None Include="quiz_dataset\csv\levels1.csv" />
+    <None Include="quiz_dataset\csv\levels2.csv" />
+    <None Include="quiz_dataset\csv\levels3.csv" />
+    <None Include="quiz_dataset\csv\questions0.csv" />
+    <None Include="quiz_dataset\csv\questions1.csv" />
+    <None Include="quiz_dataset\csv\questions2.csv" />
+    <None Include="quiz_dataset\csv\questions3.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="quiz_dataset\txt\categorieen.txt" />
+    <Content Include="quiz_dataset\txt\niveaus0.txt" />
+    <Content Include="quiz_dataset\txt\niveaus1.txt" />
+    <Content Include="quiz_dataset\txt\niveaus2.txt" />
+    <Content Include="quiz_dataset\txt\niveaus3.txt" />
+    <Content Include="quiz_dataset\txt\vragen0.txt" />
+    <Content Include="quiz_dataset\txt\vragen1.txt" />
+    <Content Include="quiz_dataset\txt\vragen2.txt" />
+    <Content Include="quiz_dataset\txt\vragen3.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

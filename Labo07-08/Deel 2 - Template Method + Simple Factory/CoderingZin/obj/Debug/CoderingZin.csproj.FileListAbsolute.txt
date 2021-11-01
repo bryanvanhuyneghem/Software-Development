@@ -1,0 +1,17 @@
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\CoderingZin\bin\Debug\CoderingZin.exe.config
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\CoderingZin\bin\Debug\CoderingZin.exe
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\CoderingZin\bin\Debug\CoderingZin.pdb
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\CoderingZin\obj\Debug\CoderingZin.exe
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\CoderingZin\obj\Debug\CoderingZin.pdb
+C:\Users\pjm\Dropbox\Work\Hogent\Shares\SoftwareOntwikkeling II\Labo\test01\opgave\Codering\CoderingZin\bin\Debug\CoderingZin.exe.config
+C:\Users\pjm\Dropbox\Work\Hogent\Shares\SoftwareOntwikkeling II\Labo\test01\opgave\Codering\CoderingZin\obj\Debug\CoderingZin.exe
+C:\Users\pjm\Dropbox\Work\Hogent\Shares\SoftwareOntwikkeling II\Labo\test01\opgave\Codering\CoderingZin\obj\Debug\CoderingZin.pdb
+C:\Users\pjm\Dropbox\Work\Hogent\Shares\SoftwareOntwikkeling II\Labo\test01\opgave\Codering\CoderingZin\bin\Debug\CoderingZin.exe
+C:\Users\pjm\Dropbox\Work\Hogent\Shares\SoftwareOntwikkeling II\Labo\test01\opgave\Codering\CoderingZin\bin\Debug\CoderingZin.pdb
+C:\Users\pjm\Dropbox\Work\Hogent\Shares\SoftwareOntwikkeling II\Labo\test01\opgave\Codering\CoderingZin\obj\Debug\CoderingZin.csprojResolveAssemblyReference.cache
+C:\Users\tiwi\Documents\SoftwareOntwikkeling 2\labo\reeks08\Codering\opgave\CoderingZin\obj\Debug\CoderingZin.csprojResolveAssemblyReference.cache
+C:\Users\tiwi\Documents\SoftwareOntwikkeling 2\labo\reeks08\Codering\opgave\CoderingZin\bin\Debug\CoderingZin.exe.config
+C:\Users\tiwi\Documents\SoftwareOntwikkeling 2\labo\reeks08\Codering\opgave\CoderingZin\bin\Debug\CoderingZin.exe
+C:\Users\tiwi\Documents\SoftwareOntwikkeling 2\labo\reeks08\Codering\opgave\CoderingZin\bin\Debug\CoderingZin.pdb
+C:\Users\tiwi\Documents\SoftwareOntwikkeling 2\labo\reeks08\Codering\opgave\CoderingZin\obj\Debug\CoderingZin.exe
+C:\Users\tiwi\Documents\SoftwareOntwikkeling 2\labo\reeks08\Codering\opgave\CoderingZin\obj\Debug\CoderingZin.pdb

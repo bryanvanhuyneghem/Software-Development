@@ -1,0 +1,6 @@
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\Sorteren\bin\Debug\Sorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\Sorteren\bin\Debug\Sorteren.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\Sorteren\obj\Debug\Sorteren.csprojAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\Sorteren\obj\Debug\Sorteren.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\Sorteren\obj\Debug\Sorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\Sorteren\obj\Debug\Sorteren.pdb

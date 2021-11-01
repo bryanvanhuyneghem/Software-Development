@@ -1,0 +1,10 @@
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\bin\Debug\ConsoleQuiz.exe.config
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\bin\Debug\ConsoleQuiz.exe
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\bin\Debug\ConsoleQuiz.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\bin\Debug\Quiz.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\bin\Debug\Quiz.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\obj\Debug\ConsoleQuiz.csprojAssemblyReference.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\obj\Debug\ConsoleQuiz.csproj.CoreCompileInputs.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\obj\Debug\ConsoleQuiz.csproj.CopyComplete
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\obj\Debug\ConsoleQuiz.exe
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\ConsoleQuiz\obj\Debug\ConsoleQuiz.pdb

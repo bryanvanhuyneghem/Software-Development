@@ -1,0 +1,45 @@
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csprojAssemblyReference.cache
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\MainWindow.g.cs
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\App.g.cs
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation_MarkupCompile.cache
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation_MarkupCompile.lref
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\bin\Debug\FieldValidation.exe.config
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\bin\Debug\FieldValidation.exe
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\bin\Debug\FieldValidation.pdb
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\MainWindow.baml
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation.g.resources
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation.Properties.Resources.resources
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csproj.GenerateResource.cache
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csproj.CoreCompileInputs.cache
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation.exe
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidation\obj\Debug\FieldValidation.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\bin\Debug\FieldValidation.exe.config
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\bin\Debug\FieldValidation.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\bin\Debug\FieldValidation.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csprojAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\MainWindow.g.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\App.g.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation_MarkupCompile.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation_MarkupCompile.lref
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\MainWindow.baml
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.g.resources
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.Properties.Resources.resources
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csproj.GenerateResource.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\bin\Debug\FieldValidation.exe.config
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\bin\Debug\FieldValidation.exe
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\bin\Debug\FieldValidation.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csprojAssemblyReference.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\MainWindow.g.cs
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\App.g.cs
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation_MarkupCompile.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation_MarkupCompile.lref
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\MainWindow.baml
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.g.resources
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.Properties.Resources.resources
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csproj.GenerateResource.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.csproj.CoreCompileInputs.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.exe
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidation\obj\Debug\FieldValidation.pdb

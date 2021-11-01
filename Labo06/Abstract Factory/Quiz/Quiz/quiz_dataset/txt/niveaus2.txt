@@ -1,0 +1,4 @@
+jaguar: rugzakje, 5
+panter: ijsje, 10
+tijger: gocar, 15
+luipaard: trein, 20

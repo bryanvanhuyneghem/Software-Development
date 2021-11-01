@@ -1,0 +1,4 @@
+goed: rugzakje, 5
+gevorderd: ijsje, 10
+expert: gocar, 15
+uitmuntend: vliegtuig, 20

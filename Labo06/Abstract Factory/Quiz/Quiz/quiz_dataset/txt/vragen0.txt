@@ -1,0 +1,12 @@
+vraag1
+Wat zegt een eend?
+Kwaak,Boe,Miauw,Krik
+A
+vraag2
+Een blad van een boom is ...
+Paars,Oranje,Groen,Zwart
+C
+vraag3
+Wat hoort niet thuis in de rij?
+Auto,Vlinder,Trein,Bus
+B

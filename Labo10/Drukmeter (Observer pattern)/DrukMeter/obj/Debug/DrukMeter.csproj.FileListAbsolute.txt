@@ -1,0 +1,6 @@
+s:\Documents\Visual Studio 2017\Labo SO2\Labo10\DrukMeter\bin\Debug\DrukMeter.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo10\DrukMeter\bin\Debug\DrukMeter.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo10\DrukMeter\obj\Debug\DrukMeter.csprojAssemblyReference.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo10\DrukMeter\obj\Debug\DrukMeter.csproj.CoreCompileInputs.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo10\DrukMeter\obj\Debug\DrukMeter.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo10\DrukMeter\obj\Debug\DrukMeter.pdb

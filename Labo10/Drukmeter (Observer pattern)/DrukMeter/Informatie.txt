@@ -1,0 +1,6 @@
+﻿Deel 1:
+
+Observer Pattern met in het Pattern de Model als Subject en de GUI (of uitvoer/displays) als Observer
+
+Deel 2 (slechts 1 klasse toevoegen):
+... Pattern met extra klasse AangepastDrukModel

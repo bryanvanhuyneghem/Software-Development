@@ -1,0 +1,9 @@
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\bin\Debug\netstandard2.0\Coderingen.deps.json
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\bin\Debug\netstandard2.0\Coderingen.dll
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\bin\Debug\netstandard2.0\Coderingen.pdb
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\obj\Debug\netstandard2.0\Coderingen.csprojAssemblyReference.cache
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\obj\Debug\netstandard2.0\Coderingen.csproj.CoreCompileInputs.cache
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\obj\Debug\netstandard2.0\Coderingen.AssemblyInfoInputs.cache
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\obj\Debug\netstandard2.0\Coderingen.AssemblyInfo.cs
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\obj\Debug\netstandard2.0\Coderingen.dll
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo02\Coderingen\obj\Debug\netstandard2.0\Coderingen.pdb

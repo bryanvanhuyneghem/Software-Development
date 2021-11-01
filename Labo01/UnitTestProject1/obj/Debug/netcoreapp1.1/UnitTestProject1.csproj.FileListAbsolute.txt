@@ -1,0 +1,6 @@
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.deps.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\UnitTestProject1\bin\Debug\netcoreapp1.1\UnitTestProject1.runtimeconfig.dev.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csprojResolveAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\UnitTestProject1\obj\Debug\netcoreapp1.1\UnitTestProject1.AssemblyInfo.cs

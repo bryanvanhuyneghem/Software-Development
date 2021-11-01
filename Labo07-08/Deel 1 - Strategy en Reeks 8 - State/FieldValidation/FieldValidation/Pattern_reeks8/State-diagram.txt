@@ -1,0 +1,49 @@
+﻿Uitleg Statendiagram flow:
+-------------------------
+
+EmailFieldEvaluation2 gaat de validatie uitvoeren via een state pattern.
+Dit betekent dat deze klasse een object moet bezitten (aggregation) van type IState.
+IState heeft vervolgens verschillende klassen die deze interface implementeren.
+IState bevat een methode isNextValid(string token, EmailFieldEvaluation2 validator) die
+controleert of de volgende in orde is.
+Dit betekent dat het, afhankelijk van in welke State het zich bevindt, gaat controleren
+of de volgende valid is.
+
+//
+Dictionary<ValidationState, IState> states = new Dictionary<ValidationState, IState>();
+states[ValidationState.INIT] = new SeparatorState(ValidationState.WORD);
+states[ValidationState.WORD] = new WordState();
+states[ValidationState.POINT] = new SeparatorState(ValidationState.WORD);
+states[ValidationState.DOMAIN_INIT] = new SeparatorState(ValidationState.ACCEPT);
+states[ValidationState.ACCEPT] = new DomainState();
+states[ValidationState.FAULT] = new FaultState();
+//
+
+SeparatorState in het geval van Init, Point of Domain_Init.
+Initieel stellen we State op Init. We controleren met een while-loop of de volgende
+staat geldig is. In een eerste stap moet een SeparatorState het afhandelen.
+*	INIT is een SeparatorState. Hier willen we een ValidationState WORD inlezen, 
+    dus het mag geen . of @ of "" of " " zijn. 
+	Indien wel -> FAULT
+	Indien niet -> volgende State is de meegegeven ValidationState in de constructor.
+    (hier: ValidationState WORD), wat betekent dat de huidige State nu een WordState is.
+*	I1 is een WordState. We controleren nu of het volgende stukje een . of een @ is.
+	Als het een . is, dan stellen we de volgende State in op een ValidationState POINT,
+	wat betekent dat de huidige State nu opnieuw een SeparatorState is. We gaan naar I2.
+	Als het een @ is, dan stellen we de volgende State in op een ValidationState DOMAIN_INIT,
+	wat betekent dat de huidige State nu opnieuw een SeparatorState is. We gaan naar I3.
+
+*	I2 is waar terecht kom indien vorige State in I1 een ValidationState POINT was. 
+	Opnieuw een SeparatorState, met als parameter een ValidationState WORD.
+
+*	I3 is waar ik terecht kom indien vorige State in I1 een ValidationState DOMAIN_INIT was.
+	Opnieuw een SeparatorState die een ValidationState ACCEPT in de constructor meekreeg,
+	wat betekent dat dit de volgende State wordt.
+
+*	Accept is een DomainState waarin we terecht komen. Indien we een . lezen,
+	zetten we de State opnieuw op ValidationState DOMAIN_INIT en gaan we terug naar I3.
+	Indien de while-loop gedaan is, zal de laatste ValidationState ACCEPT zijn.
+
+*	Fault is een State waarin we terecht komen indien er iets fout loopt tijdens
+	de validatie.
+

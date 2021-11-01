@@ -1,0 +1,4 @@
+dwergkonijn: bal, 3
+konijn: puzzel, 6
+bergkonijn: fiets, 9
+haas: ijsje, 12

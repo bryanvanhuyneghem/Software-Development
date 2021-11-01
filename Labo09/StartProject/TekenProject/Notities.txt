@@ -1,0 +1,5 @@
+﻿Labo Softwareontwikkeling:
+
+Reeks 9: Behavioural Patterns: Tekenprogramma
+- Patterns: Strategy en Command
+- Veruit het moeilijkste labo, voornamelijk door de omvang en WPF

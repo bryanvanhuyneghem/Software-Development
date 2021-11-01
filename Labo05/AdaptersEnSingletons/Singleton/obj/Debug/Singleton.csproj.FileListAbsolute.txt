@@ -1,0 +1,10 @@
+C:\temp\Reeks05\Singleton\bin\Debug\Singleton.exe.config
+C:\temp\Reeks05\Singleton\bin\Debug\Singleton.exe
+C:\temp\Reeks05\Singleton\bin\Debug\Singleton.pdb
+C:\temp\Reeks05\Singleton\bin\Debug\GebruikerPortaal.dll
+C:\temp\Reeks05\Singleton\bin\Debug\UserDatabase.dll
+C:\temp\Reeks05\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\temp\Reeks05\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\temp\Reeks05\Singleton\obj\Debug\Singleton.csproj.CopyComplete
+C:\temp\Reeks05\Singleton\obj\Debug\Singleton.exe
+C:\temp\Reeks05\Singleton\obj\Debug\Singleton.pdb

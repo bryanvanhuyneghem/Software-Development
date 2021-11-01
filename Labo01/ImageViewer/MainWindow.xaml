@@ -1,0 +1,58 @@
+﻿<Window x:Class="ImageViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageViewer"
+        mc:Ignorable="d"
+        Title="ImageViewer" Height="400" Width="300" Icon="icon.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="300*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="400*"/>
+        </Grid.ColumnDefinitions>
+
+        <GroupBox Header="Open afbeelding" Grid.Column="0" Grid.Row="0" Background="White" Margin="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60"/>
+                    <ColumnDefinition Width="140*"/>
+                    <ColumnDefinition Width="100"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Invoer:" Height="30" Grid.Row="0" Grid.Column="0"/>
+                <TextBox x:Name="TxtInputFile" TextWrapping="NoWrap" Height="20" Grid.Row="0" Grid.Column="1"/>
+                <Button x:Name="BtnInput" Content="Bladeren..." Grid.Row="0" Grid.Column="2" Height="20" Width="80" Click="BtnInput_Click"/>
+            </Grid>
+        </GroupBox>
+        
+        <Image x:Name="Image" RenderTransformOrigin="0.5,0.5" Margin="5" Grid.Row="1" Grid.Column="0" Panel.ZIndex="-1">
+            <Image.RenderTransform>
+                <RotateTransform x:Name="ImageRotateTransform"  Angle="0" />
+            </Image.RenderTransform>
+        </Image>
+        
+        <GroupBox Header="Besturing" Grid.Column="0" Grid.Row="2" Background="White">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="btnRotateLeft" Content="Draai links" Grid.Column="1" Grid.Row="0" Width="80" Height="20" Click="btnRotateLeft_Click"/>
+                <Button x:Name="btnRotateRight" Content="Draai rechts" Grid.Column="2" Grid.Row="0" Width="80" Height="20" Click="btnRotateRight_Click"/>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Window>

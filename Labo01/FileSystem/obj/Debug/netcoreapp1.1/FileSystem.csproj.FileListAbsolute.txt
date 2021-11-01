@@ -1,0 +1,10 @@
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\bin\Debug\netcoreapp1.1\FileSystem.deps.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\bin\Debug\netcoreapp1.1\FileSystem.runtimeconfig.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\bin\Debug\netcoreapp1.1\FileSystem.runtimeconfig.dev.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\bin\Debug\netcoreapp1.1\FileSystem.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\bin\Debug\netcoreapp1.1\FileSystem.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\obj\Debug\netcoreapp1.1\FileSystem.csprojResolveAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\obj\Debug\netcoreapp1.1\FileSystem.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\obj\Debug\netcoreapp1.1\FileSystem.AssemblyInfo.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\obj\Debug\netcoreapp1.1\FileSystem.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\2018\Labo\Labo01\FileSystem\obj\Debug\netcoreapp1.1\FileSystem.pdb

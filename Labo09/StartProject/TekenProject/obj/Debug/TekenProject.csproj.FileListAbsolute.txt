@@ -1,0 +1,29 @@
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\bin\Debug\TekenProject.exe.config
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\bin\Debug\TekenProject.exe
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\bin\Debug\TekenProject.pdb
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject.csprojAssemblyReference.cache
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\MainWindow.g.cs
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\App.g.cs
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject_MarkupCompile.cache
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject_MarkupCompile.lref
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\MainWindow.baml
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject.g.resources
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject.Properties.Resources.resources
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject.csproj.GenerateResource.cache
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject.csproj.CoreCompileInputs.cache
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject.exe
+C:\Users\bvhuyneg\Downloads\StartProject\TekenProject\obj\Debug\TekenProject.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\bin\Debug\TekenProject.exe.config
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\bin\Debug\TekenProject.exe
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\bin\Debug\TekenProject.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\MainWindow.g.cs
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\App.g.cs
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\TekenProject_MarkupCompile.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\TekenProject_MarkupCompile.lref
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\MainWindow.baml
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\TekenProject.g.resources
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\TekenProject.Properties.Resources.resources
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\TekenProject.csproj.GenerateResource.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\TekenProject.csproj.CoreCompileInputs.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\TekenProject.exe
+s:\Documents\Visual Studio 2017\Labo SO2\Labo09 -- wip\StartProject\TekenProject\obj\Debug\TekenProject.pdb

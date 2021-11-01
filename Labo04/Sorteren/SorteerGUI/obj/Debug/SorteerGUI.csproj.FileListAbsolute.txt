@@ -1,0 +1,22 @@
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\bin\Debug\SorteerGUI.exe.config
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\bin\Debug\SorteerGUI.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\bin\Debug\SorteerGUI.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.csprojAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\MainWindow.baml
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\MainWindow.g.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\App.g.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI_MarkupCompile.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.g.resources
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.Properties.Resources.resources
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.csproj.GenerateResource.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.pdb
+C:\temp\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.exe
+C:\temp\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\bin\Debug\SorteerBestanden.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\bin\Debug\Sorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\bin\Debug\SorteerBestanden.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\bin\Debug\SorteerBestanden.exe.config
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\bin\Debug\Sorteren.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\SorteerGUI\obj\Debug\SorteerGUI.csproj.CopyComplete

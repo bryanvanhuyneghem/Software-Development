@@ -1,0 +1,346 @@
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\TestSorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\TestSorteren.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Microsoft.Win32.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\netstandard.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.AppContext.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Collections.Concurrent.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Collections.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Collections.NonGeneric.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Collections.Specialized.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.ComponentModel.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.ComponentModel.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.ComponentModel.TypeConverter.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Console.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Data.Common.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.Contracts.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.Debug.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.Process.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.StackTrace.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.Tools.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.TraceSource.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Diagnostics.Tracing.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Drawing.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Dynamic.Runtime.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Globalization.Calendars.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Globalization.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Globalization.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.Compression.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.Compression.ZipFile.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.FileSystem.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.FileSystem.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.FileSystem.Watcher.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.IsolatedStorage.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.MemoryMappedFiles.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.Pipes.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Linq.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Linq.Expressions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Linq.Parallel.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Linq.Queryable.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.Http.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.NameResolution.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.NetworkInformation.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.Ping.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.Requests.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.Security.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.Sockets.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.WebHeaderCollection.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.WebSockets.Client.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Net.WebSockets.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.ObjectModel.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Reflection.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Reflection.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Reflection.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Resources.Reader.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Resources.ResourceManager.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Resources.Writer.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.Handles.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.InteropServices.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.Numerics.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.Serialization.Formatters.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.Serialization.Json.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.Serialization.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Runtime.Serialization.Xml.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Security.Claims.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Security.Cryptography.Algorithms.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Security.Cryptography.Csp.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Security.Cryptography.Encoding.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Security.Cryptography.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Security.Principal.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Security.SecureString.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Text.Encoding.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Text.Encoding.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Text.RegularExpressions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Threading.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Threading.Overlapped.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Threading.Tasks.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Threading.Tasks.Parallel.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Threading.Thread.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Threading.ThreadPool.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Threading.Timer.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.ValueTuple.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Xml.ReaderWriter.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Xml.XDocument.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Xml.XmlDocument.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Xml.XmlSerializer.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Xml.XPath.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\System.Xml.XPath.XDocument.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Sorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Sorteren.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\obj\Debug\TestSorteren.csprojAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\obj\Debug\TestSorteren.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\obj\Debug\TestSorteren.csproj.CopyComplete
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\obj\Debug\TestSorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Delegates\TestSorteren\obj\Debug\TestSorteren.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\TestSorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\TestSorteren.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.Win32.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\netstandard.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.AppContext.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Collections.Concurrent.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Collections.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Collections.NonGeneric.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Collections.Specialized.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.ComponentModel.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.ComponentModel.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.ComponentModel.TypeConverter.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Console.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Data.Common.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Contracts.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Debug.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Process.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.StackTrace.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Tools.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.TraceSource.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Tracing.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Drawing.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Dynamic.Runtime.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Globalization.Calendars.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Globalization.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Globalization.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.Compression.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.Compression.ZipFile.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.FileSystem.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.FileSystem.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.FileSystem.Watcher.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.IsolatedStorage.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.MemoryMappedFiles.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.Pipes.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Linq.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Linq.Expressions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Linq.Parallel.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Linq.Queryable.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Http.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.NameResolution.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.NetworkInformation.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Ping.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Requests.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Security.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Sockets.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.WebHeaderCollection.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.WebSockets.Client.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.WebSockets.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.ObjectModel.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Reflection.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Reflection.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Reflection.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Resources.Reader.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Resources.ResourceManager.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Resources.Writer.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Handles.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.InteropServices.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Numerics.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Serialization.Formatters.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Serialization.Json.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Serialization.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Serialization.Xml.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Claims.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.Algorithms.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.Csp.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.Encoding.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.Primitives.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Principal.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.SecureString.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Text.Encoding.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Text.Encoding.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Text.RegularExpressions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Overlapped.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Tasks.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Tasks.Parallel.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Thread.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.ThreadPool.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Timer.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.ValueTuple.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.ReaderWriter.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XDocument.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XmlDocument.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XmlSerializer.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XPath.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XPath.XDocument.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Sorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Sorteren.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.csprojAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.csproj.CopyComplete
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.pdb
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Bibliotheek.dll
+S:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\Catalogus.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\TestSorteren.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\TestSorteren.pdb
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\netstandard.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.AppContext.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Collections.Concurrent.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Collections.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Collections.NonGeneric.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Collections.Specialized.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.ComponentModel.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.ComponentModel.Primitives.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Console.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Data.Common.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Contracts.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Debug.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Process.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Tools.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Diagnostics.Tracing.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Drawing.Primitives.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Dynamic.Runtime.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Globalization.Calendars.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Globalization.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Globalization.Extensions.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.Compression.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.FileSystem.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.IsolatedStorage.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.Pipes.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Linq.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Linq.Expressions.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Linq.Parallel.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Linq.Queryable.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Http.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.NameResolution.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.NetworkInformation.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Ping.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Primitives.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Requests.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Security.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.Sockets.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.WebSockets.Client.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Net.WebSockets.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.ObjectModel.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Reflection.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Reflection.Extensions.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Reflection.Primitives.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Resources.Reader.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Resources.ResourceManager.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Resources.Writer.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Extensions.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Handles.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.InteropServices.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Numerics.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Claims.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.Principal.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Security.SecureString.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Text.Encoding.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Text.RegularExpressions.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Overlapped.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Tasks.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Thread.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.ThreadPool.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Threading.Timer.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.ValueTuple.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.ReaderWriter.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XDocument.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XmlDocument.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XmlSerializer.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XPath.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Bibliotheek.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Catalogus.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Sorteren.dll
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Sorteren.pdb
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\temp\Labo04\Sorteren\TestSorteren\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\temp\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.csprojAssemblyReference.cache
+C:\temp\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.csproj.CoreCompileInputs.cache
+C:\temp\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.csproj.CopyComplete
+C:\temp\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.dll
+C:\temp\Labo04\Sorteren\TestSorteren\obj\Debug\TestSorteren.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\SorteerBestanden.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\SorteerGUI.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\SorteerBestanden.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\SorteerBestanden.exe.config
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\SorteerGUI.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo04\Sorteren\TestSorteren\bin\Debug\SorteerGUI.exe.config

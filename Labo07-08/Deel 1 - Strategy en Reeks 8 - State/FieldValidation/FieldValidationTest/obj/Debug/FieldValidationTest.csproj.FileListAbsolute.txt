@@ -1,0 +1,36 @@
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.csprojAssemblyReference.cache
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.csproj.CoreCompileInputs.cache
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\FieldValidationTest.dll
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\FieldValidationTest.pdb
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\FieldValidation.exe
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\FieldValidation.pdb
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\FieldValidation.exe.config
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.csproj.CopyComplete
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.dll
+c:\users\bvhuyneg\source\repos\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.csprojAssemblyReference.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.csproj.CoreCompileInputs.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\FieldValidationTest.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\FieldValidationTest.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\FieldValidation.exe
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\FieldValidation.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\FieldValidation.exe.config
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+s:\Documents\Visual Studio 2017\Labo SO2\Labo07\Deel 1 - Strategy\FieldValidation\FieldValidationTest\obj\Debug\FieldValidationTest.csproj.CopyComplete

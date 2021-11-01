@@ -1,0 +1,14 @@
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\obj\Debug\netcoreapp2.1\Bib.csprojAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\obj\Debug\netcoreapp2.1\Bib.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\obj\Debug\netcoreapp2.1\Bib.AssemblyInfoInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\obj\Debug\netcoreapp2.1\Bib.AssemblyInfo.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\bin\Debug\netcoreapp2.1\Bib.deps.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\bin\Debug\netcoreapp2.1\Bib.runtimeconfig.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\bin\Debug\netcoreapp2.1\Bib.runtimeconfig.dev.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\bin\Debug\netcoreapp2.1\Bib.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\bin\Debug\netcoreapp2.1\Bib.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\bin\Debug\netcoreapp2.1\Bibliotheek.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\bin\Debug\netcoreapp2.1\Bibliotheek.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\obj\Debug\netcoreapp2.1\Bib.csproj.CopyComplete
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\obj\Debug\netcoreapp2.1\Bib.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bib\obj\Debug\netcoreapp2.1\Bib.pdb

@@ -1,0 +1,1 @@
+Relative path is niet juist bij CSVQuizFactory en bij TXTQuizFactory. Hij zet bij het runnen via de Console (ConsoleQuiz) het relative path naar de bin\Debug

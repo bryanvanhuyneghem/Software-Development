@@ -1,0 +1,10 @@
+C:\temp\Reeks05\Adapters\bin\Debug\Adapters.exe.config
+C:\temp\Reeks05\Adapters\bin\Debug\Adapters.exe
+C:\temp\Reeks05\Adapters\bin\Debug\Adapters.pdb
+C:\temp\Reeks05\Adapters\obj\Debug\Adapters.csprojAssemblyReference.cache
+C:\temp\Reeks05\Adapters\obj\Debug\Adapters.csproj.CoreCompileInputs.cache
+C:\temp\Reeks05\Adapters\obj\Debug\Adapters.exe
+C:\temp\Reeks05\Adapters\obj\Debug\Adapters.pdb
+C:\temp\Reeks05\Adapters\bin\Debug\GebruikerPortaal.dll
+C:\temp\Reeks05\Adapters\bin\Debug\UserDatabase.dll
+C:\temp\Reeks05\Adapters\obj\Debug\Adapters.csproj.CopyComplete

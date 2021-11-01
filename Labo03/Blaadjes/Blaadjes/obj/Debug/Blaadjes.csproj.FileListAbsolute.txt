@@ -1,0 +1,15 @@
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\bin\Debug\Blaadjes.exe.config
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\bin\Debug\Blaadjes.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\bin\Debug\Blaadjes.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes.csprojAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\MainWindow.g.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\App.g.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes_MarkupCompile.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes_MarkupCompile.lref
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\MainWindow.baml
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes.g.resources
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes.Properties.Resources.resources
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes.csproj.GenerateResource.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes.exe
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Blaadjes\Blaadjes\obj\Debug\Blaadjes.pdb

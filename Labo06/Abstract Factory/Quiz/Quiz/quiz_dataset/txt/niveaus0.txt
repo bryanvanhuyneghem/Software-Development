@@ -1,0 +1,4 @@
+ei: beer, 3
+kuiken: badeend, 6
+kip: driewieler, 9
+haan: frisco, 12

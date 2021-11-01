@@ -1,0 +1,5 @@
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\Codering\bin\Debug\Codering.exe.config
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\Codering\bin\Debug\Codering.exe
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\Codering\bin\Debug\Codering.pdb
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\Codering\obj\Debug\Codering.exe
+C:\Users\pjm\Dropbox\Work\Hogent\2014-2015\SO2\Labo\test1\opgave\Codering\Codering\obj\Debug\Codering.pdb

@@ -1,0 +1,14 @@
+﻿<Window x:Class="Blaadjes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Blaadjes"
+        mc:Ignorable="d"
+        Title="Herfst" Height="600" Width="400">
+    <Grid>
+        <Canvas x:Name="canvas"/>
+        <!-- <MediaElement Source="s:\Pictures\0Foto's\USA 2018\IMG_4707.mov" /> -->
+    </Grid>
+    
+</Window>

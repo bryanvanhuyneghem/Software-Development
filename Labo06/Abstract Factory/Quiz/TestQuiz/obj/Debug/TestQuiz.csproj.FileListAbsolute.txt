@@ -1,0 +1,16 @@
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\TestQuiz.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\TestQuiz.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Quiz.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Quiz.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\obj\Debug\TestQuiz.csprojAssemblyReference.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\obj\Debug\TestQuiz.csproj.CoreCompileInputs.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\obj\Debug\TestQuiz.csproj.CopyComplete
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\obj\Debug\TestQuiz.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\TestQuiz\obj\Debug\TestQuiz.pdb

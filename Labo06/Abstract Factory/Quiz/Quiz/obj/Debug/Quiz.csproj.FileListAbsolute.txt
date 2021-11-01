@@ -1,0 +1,5 @@
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\Quiz\bin\Debug\Quiz.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\Quiz\bin\Debug\Quiz.pdb
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\Quiz\obj\Debug\Quiz.dll
+s:\Documents\Visual Studio 2017\Labo SO2\Labo06\Abstract Factory\Quiz\Quiz\obj\Debug\Quiz.pdb

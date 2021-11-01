@@ -1,0 +1,9 @@
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\bin\Debug\netstandard2.0\Bibliotheek.deps.json
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\bin\Debug\netstandard2.0\Bibliotheek.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\bin\Debug\netstandard2.0\Bibliotheek.pdb
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\obj\Debug\netstandard2.0\Bibliotheek.csprojAssemblyReference.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\obj\Debug\netstandard2.0\Bibliotheek.csproj.CoreCompileInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\obj\Debug\netstandard2.0\Bibliotheek.AssemblyInfoInputs.cache
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\obj\Debug\netstandard2.0\Bibliotheek.AssemblyInfo.cs
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\obj\Debug\netstandard2.0\Bibliotheek.dll
+s:\Documents\Universiteit Gent\Jaar 3\Semester V\Softwareontwikkeling II\Labo 2018\Labo\Labo03\Bibiliotheek\Bibliotheek\obj\Debug\netstandard2.0\Bibliotheek.pdb

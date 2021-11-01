@@ -1,0 +1,4 @@
+Peuters: 0
+Kleuters: 1
+1e graad LO: 2
+2e graad LO: 3

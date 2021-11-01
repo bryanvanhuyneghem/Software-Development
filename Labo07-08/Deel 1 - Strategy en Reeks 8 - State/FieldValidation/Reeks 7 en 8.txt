@@ -1,0 +1,6 @@
+-------------------
+BEHAVIORAL PATTERNS
+-------------------
+
+Deze Solution bevat zowel 'Reeks 7: deel 1, FieldValidation' en 'Reeks 8: EmailFieldEvaluation revised, state pattern'
+						  

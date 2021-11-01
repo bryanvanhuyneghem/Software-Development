@@ -1,0 +1,5 @@
+Opmerking achteraf (kan je niet uitwerken) 
+Hoe had het converteren tussen Gebruiker/User kunnen vermeden worden indien de originele applicaties meer "doordacht" waren uitgewerkt?
+
+* Door het toevoegen van interfaces boven de concrete klassen User en Gebruiker, zijnde IUser en IGebruiker.
+
